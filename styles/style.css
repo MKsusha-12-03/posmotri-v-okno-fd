@@ -60,12 +60,12 @@ ol {
   width: 1140px;
   flex-direction: row;
   gap: 30px;
-  margin-bottom: 70px; 
+  /* margin-bottom: 70px;  */
 }
 
 .result {
-  margin-top: 77px;
-  margin-left: 30px;
+  margin-top: 78px;
+  margin-left: 8px;
 }
 
 .result__video-container {
@@ -98,7 +98,7 @@ ol {
   position: relative;
   max-height: 300px;
   overflow: auto;
-  margin-bottom: 26px;
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
   /* gap: 30px; */
@@ -138,7 +138,7 @@ ol {
   font-weight: 700;
   text-transform: uppercase;
   line-height: 94%;
-  padding-bottom: 16px;
+  padding-top: 4px;
 }
 
 .content__accent {
